@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    }
+    .container {
+    padding: 2rem;
+    }
+    .btn {
+    background: #495e57;
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+    }
+    .form {
+    display: grid;
+    gap: 1rem;
+    max-width: 400px;
+    }
+    .header {
+        background: #495e57;
+        color: white;
+        }
+        
+        
+        .nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 2rem;
+        }
+        
+        
+        .nav-links {
+        list-style: none;
+        display: flex;
+        gap: 1rem;
+        }
+        
+        
+        .nav a {
+        color: white;
+        text-decoration: none;
+        }
