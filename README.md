@@ -1,1 +1,1 @@
-deployed in littlelemon2001.netlify.app
+deployed in www.littlelemon2001.netlify.app
